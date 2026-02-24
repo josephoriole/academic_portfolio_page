@@ -1,0 +1,9 @@
+let time1 = '6:00pm';
+let time2 ='12:00am';
+let football  ='1:00pm';
+if (football==='1:00p')
+    console.log('it true sir u are progressing just continue child');
+
+else if (football==='6:00pm')
+    console.log('it false sir');
+

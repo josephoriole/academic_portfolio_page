@@ -52,20 +52,20 @@ let Lname = "angela"
 fname = sname +" "+ Lname;
 console.log('my full name is' + fname);
   
+
 let me = "Josco";
-console.log(name.length());
+console.log(me.length);
 
 let text = "hello";
 console.log(text.toUpperCase());
 
-let letter = "hello";
-console.log(letter.toUpperCase());
+let letter = "Hello";
+console.log(letter.toLowerCase());
 
 let tex = "JAVA";
 console.log(tex.charAt(0));
 
  let sentence = "I love Java";
- console.log( sentence = "I love Java";);
- 
+ console.log(sentence ==="I love Java");
  let code = "I love Python";
  code.replace("Python", "Java")
